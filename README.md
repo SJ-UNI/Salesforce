@@ -1,18 +1,19 @@
- **#Salesforce**
+ **Salesforce**
 
-                                                  To Supply Leftover Food to Poor using Salesforce
-📘 Overview
+
+To Supply Leftover Food to Poor using Salesforce
+**📘 Overview**
 
 “To Supply Leftover Food to Poor” is a cloud-based application developed using Salesforce that connects food donors (restaurants, events, individuals) with NGOs and volunteers.
 The platform automates the redistribution of leftover food to reduce waste and feed the needy — ensuring transparency, efficiency, and sustainability.
 
 This project showcases how Salesforce CRM tools, Flows, Apex Triggers, Dashboards, and Reports can be used to build a real-world social welfare solution.
 
-🎯 Aim
+**🎯 Aim**
 
 To develop a Salesforce-based cloud solution that automates the collection, management, and distribution of leftover food to poor communities by connecting donors, NGOs, and volunteers in a single platform.
 
-🚀 Features
+**🚀 Features**
 
 👤 Donor & NGO Management: Register and manage users within the system.
 
@@ -28,84 +29,84 @@ To develop a Salesforce-based cloud solution that automates the collection, mana
 
 🧭 Lightning App Interface: Unified and responsive app experience.
 
-🧩 Salesforce Components Used
-Component	Description
-Objects	Custom objects for Donor, Food Item, NGO, Delivery Record
-Tabs	Easy navigation to manage data
-Lightning App	Centralized workspace for all operations
-Fields	Custom fields for food details, locations, etc.
-Flows	Automates NGO notifications and approvals
-Triggers	Executes updates and alerts in real time
-Profiles & Users	Access control for Admin, Donor, NGO, Volunteer
-Public Groups	Enables shared visibility and teamwork
-Reports & Dashboards	For performance tracking and analytics
-Sharing Rules	Manages record-level access
-Home Page	Displays latest food donations, requests, and alerts
-🧱 Project Milestones
+**🧩 Salesforce Components Used**
+**Component	Description**
+1.Objects	Custom objects for Donor, Food Item, NGO, Delivery Record
+2.Tabs	Easy navigation to manage data
+3.Lightning App	Centralized workspace for all operations
+4.Fields	Custom fields for food details, locations, etc.
+5.Flows	Automates NGO notifications and approvals
+6.Triggers	Executes updates and alerts in real time
+7.Profiles & Users	Access control for Admin, Donor, NGO, Volunteer
+8.Public Groups	Enables shared visibility and teamwork
+9.Reports & Dashboards	For performance tracking and analytics
+10.Sharing Rules	Manages record-level access
+11.Home Page	Displays latest food donations, requests, and alerts
 
-Salesforce Developer Account Creation
+**🧱 Project Milestones**
 
-Object Creation
+1.Salesforce Developer Account Creation
 
-Tabs
+2.Object Creation
 
-The Lightning App
+3.Tabs
 
-Fields
+4.The Lightning App
 
-Flows
+5.Fields
 
-Triggers
+6.Flows
 
-Profiles
+7.Triggers
 
-Creation of Users
+8.Profiles
 
-Public Groups
+9.Creation of Users
 
-Report Types
+10.Public Groups
 
-Reports
+11.Report Types
 
-Dashboards
+12.Reports
 
-Sharing Rules
+13.Dashboards
 
-Home Page
+14.Sharing Rules
 
-Conclusion and Testing
+15.Home Page
+
+16.Conclusion and Testing
 
 
-1️⃣ Prerequisites
+**1️⃣ Prerequisites**
 
-Salesforce Developer Account → https://developer.salesforce.com/signup
+1.Salesforce Developer Account → https://developer.salesforce.com/signup
 
-Basic knowledge of Salesforce Objects, Fields, and Flows
+2.Basic knowledge of Salesforce Objects, Fields, and Flows
 
-Admin access to create users and assign profiles
+3.Admin access to create users and assign profiles
 
-2️⃣ Steps to Deploy
+**2️⃣ Steps to Deploy**
 
-Log in to your Salesforce Developer Org.
+1.Log in to your Salesforce Developer Org.
 
-Create custom Objects: Donor, Food Item, NGO, Delivery Record.
+2.Create custom Objects: Donor, Food Item, NGO, Delivery Record.
 
-Define Relationships between objects.
+3.Define Relationships between objects.
 
-Add Custom Fields (food type, expiry date, quantity, etc.).
+4.Add Custom Fields (food type, expiry date, quantity, etc.).
 
-Create Flows for automatic NGO notifications.
+5.Create Flows for automatic NGO notifications.
 
-Configure Apex Triggers for real-time updates.
+6.Configure Apex Triggers for real-time updates.
 
-Add Reports and Dashboards for visualization.
+7.Add Reports and Dashboards for visualization.
 
-Customize Home Page and Lightning App.
+8.Customize Home Page and Lightning App.
 
-Test donation and distribution workflow end-to-end.
+9.Test donation and distribution workflow end-to-end.
 
-📊 Results
-
+****📊 Results**
 Reduced food wastage through real-time redistribution.
 
 Enhanced coordination between donors and NGOs.
@@ -114,7 +115,7 @@ Simplified reporting and performance tracking through dashboards.
 
 Promoted sustainability and social welfare using technology.
 
-🔮 Future Scope
+**🔮 Future Scope**
 
 Mobile application integration for on-the-go access.
 
