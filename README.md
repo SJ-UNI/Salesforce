@@ -1,130 +1,96 @@
- **Salesforce**
+👇
 
+🥗 To Supply Leftover Food to Poor – Salesforce Developer Project
+📘 Overview
 
-**To Supply Leftover Food to Poor using Salesforce**
+The To Supply Leftover Food to Poor project is a Salesforce-based cloud solution designed to reduce food wastage by connecting food donors (restaurants, households, and event organizers) with NGOs and volunteers who distribute surplus food to the needy.
+This system ensures transparency, real-time tracking, and automation in food collection and delivery using Salesforce CRM capabilities.
 
+🎯 Objectives
 
-**📘 Overview**
+Automate the process of collecting and distributing leftover food.
 
-“To Supply Leftover Food to Poor” is a cloud-based application developed using Salesforce that connects food donors (restaurants, events, individuals) with NGOs and volunteers.
-The platform automates the redistribution of leftover food to reduce waste and feed the needy — ensuring transparency, efficiency, and sustainability.
+Connect donors, NGOs, and volunteers through a unified Salesforce platform.
 
-This project showcases how Salesforce CRM tools, Flows, Apex Triggers, Dashboards, and Reports can be used to build a real-world social welfare solution.
+Use Flows and Apex Triggers to manage donation notifications and record updates.
 
-**🎯 Aim**
+Maintain accurate and centralized records of food donations and deliveries.
 
-To develop a Salesforce-based cloud solution that automates the collection, management, and distribution of leftover food to poor communities by connecting donors, NGOs, and volunteers in a single platform.
+Promote sustainability and social responsibility by minimizing food wastage.
 
-**🚀 Features**
+🧠 Skills Used
 
-👤 Donor & NGO Management: Register and manage users within the system.
+Salesforce Administration
 
-🍱 Food Donation Entry: Donors can add food details such as type, quantity, and expiry time.
+Apex Programming
 
-🔔 Automation: Automated notifications to nearby NGOs via Salesforce Flows.
+Flows & Process Builder
 
-⚙️ Real-time Triggers: Apex Triggers update statuses and send alerts instantly.
+Reports & Dashboards
 
-📊 Reports & Dashboards: Visualize food distribution stats and donor activities.
+Email Templates and Notifications
 
-🔒 Profiles & Sharing Rules: Role-based access and secure data sharing.
+Lightning App Development
 
-🧭 Lightning App Interface: Unified and responsive app experience.
+⚙️ System Requirements
 
-**🧩 Salesforce Components Used**
-**Component	Description**
-1.Objects	Custom objects for Donor, Food Item, NGO, Delivery Record
-2.Tabs	Easy navigation to manage data
-3.Lightning App	Centralized workspace for all operations
-4.Fields	Custom fields for food details, locations, etc.
-5.Flows	Automates NGO notifications and approvals
-6.Triggers	Executes updates and alerts in real time
-7.Profiles & Users	Access control for Admin, Donor, NGO, Volunteer
-8.Public Groups	Enables shared visibility and teamwork
-9.Reports & Dashboards	For performance tracking and analytics
-10.Sharing Rules	Manages record-level access
-11.Home Page	Displays latest food donations, requests, and alerts
+Salesforce Developer Org
 
-**🧱 Project Milestones**
+Google Chrome / Microsoft Edge browser
 
-1.Salesforce Developer Account Creation
+GitHub for code and documentation submission
 
-2.Object Creation
+🧩 Key Features
 
-3.Tabs
+🍱 Custom Objects: Donor, NGO, Food Item, Delivery Record
 
-4.The Lightning App
+🔗 Relationships: Lookup and Master-Detail between food, donor, and delivery data
 
-5.Fields
+⚙️ Automation: Flows for instant NGO alerts and Apex Triggers for status updates
 
-6.Flows
+🧾 Reports & Dashboards: Visualize total meals distributed and donations per day
 
-7.Triggers
+✅ Validation Rules: Ensure data accuracy and timely delivery updates
 
-8.Profiles
+🔐 Profiles & Sharing Rules: Manage role-based access and data security
 
-9.Creation of Users
+🏠 Custom Lightning App: Centralized interface for donors, NGOs, and admins
 
-10.Public Groups
+🧪 Testing & Results
 
-11.Report Types
+All flows, triggers, and sharing rules functioned correctly during testing.
 
-12.Reports
+NGOs received instant notifications upon new food donation entries.
 
-13.Dashboards
+Reports and dashboards displayed accurate donation and delivery statistics.
 
-14.Sharing Rules
+The system successfully ensured real-time updates and minimized manual coordination.
 
-15.Home Page
+⚠️ Limitations
 
-16.Conclusion and Testing
+No mobile application version yet.
 
+Basic Salesforce Lightning UI without external integrations.
 
-**1️⃣ Prerequisites**
+🚀 Future Enhancements
 
-1.Salesforce Developer Account → https://developer.salesforce.com/signup
+Develop a mobile-friendly app using Lightning Web Components (LWC).
 
-2.Basic knowledge of Salesforce Objects, Fields, and Flows
+Integrate geolocation services for optimized delivery routes.
 
-3.Admin access to create users and assign profiles
+Add AI-based predictions for high-demand areas.
 
-**2️⃣ Steps to Deploy**
+Enable SMS and Email automation for real-time donor–NGO communication.
 
-1.Log in to your Salesforce Developer Org.
+Use Blockchain for secure record tracking and transparency.
 
-2.Create custom Objects: Donor, Food Item, NGO, Delivery Record.
+📄 Documentation
 
-3.Define Relationships between objects.
+📘 Project Report (PDF): 
+Includes project architecture, screenshots, workflows, and milestone details.
 
-4.Add Custom Fields (food type, expiry date, quantity, etc.).
+👨‍💻 Developed By
 
-5.Create Flows for automatic NGO notifications.
-
-6.Configure Apex Triggers for real-time updates.
-
-7.Add Reports and Dashboards for visualization.
-
-8.Customize Home Page and Lightning App.
-
-9.Test donation and distribution workflow end-to-end.
-
-****📊 Results**
-Reduced food wastage through real-time redistribution.
-
-Enhanced coordination between donors and NGOs.
-
-Simplified reporting and performance tracking through dashboards.
-
-Promoted sustainability and social welfare using technology.
-
-**🔮 Future Scope**
-
-Mobile application integration for on-the-go access.
-
-AI-based demand prediction for specific locations.
-
-Geolocation routing for volunteer pickup optimization.
-
-SMS/Email automation for real-time alerts.
-
-Blockchain-based record tracking for transparency.
+Hariharan S J
+📚 Program: Naan Mudhalvan – Salesforce Developer (SB8067)
+📦 Project Title: To Supply Leftover Food to Poor
