@@ -1,14 +1,13 @@
 👇
 
-🥗 To Supply Leftover Food to Poor – Salesforce Developer Project
+**🥗 To Supply Leftover Food to Poor – Salesforce Developer Project**
 
-
-📘 Overview
+**📘 Overview**
 
 The To Supply Leftover Food to Poor project is a Salesforce-based cloud solution designed to reduce food wastage by connecting food donors (restaurants, households, and event organizers) with NGOs and volunteers who distribute surplus food to the needy.
 This system ensures transparency, real-time tracking, and automation in food collection and delivery using Salesforce CRM capabilities.
 
-🎯 Objectives
+**🎯 Objectives**
 
 Automate the process of collecting and distributing leftover food.
 
@@ -20,7 +19,7 @@ Maintain accurate and centralized records of food donations and deliveries.
 
 Promote sustainability and social responsibility by minimizing food wastage.
 
-🧠 Skills Used
+**🧠 Skills Used**
 
 Salesforce Administration
 
@@ -42,7 +41,7 @@ Google Chrome / Microsoft Edge browser
 
 GitHub for code and documentation submission
 
-🧩 Key Features
+**🧩 Key Features**
 
 🍱 Custom Objects: Donor, NGO, Food Item, Delivery Record
 
@@ -58,7 +57,7 @@ GitHub for code and documentation submission
 
 🏠 Custom Lightning App: Centralized interface for donors, NGOs, and admins
 
-🧪 Testing & Results
+**🧪 Testing & Results**
 
 All flows, triggers, and sharing rules functioned correctly during testing.
 
@@ -68,13 +67,13 @@ Reports and dashboards displayed accurate donation and delivery statistics.
 
 The system successfully ensured real-time updates and minimized manual coordination.
 
-⚠️ Limitations
+**⚠️ Limitations**
 
 No mobile application version yet.
 
 Basic Salesforce Lightning UI without external integrations.
 
-🚀 Future Enhancements
+**🚀 Future Enhancements**
 
 Develop a mobile-friendly app using Lightning Web Components (LWC).
 
@@ -86,13 +85,13 @@ Enable SMS and Email automation for real-time donor–NGO communication.
 
 Use Blockchain for secure record tracking and transparency.
 
-📄 Documentation
+**📄 Documentation**
 
-📘 Project Report (PDF): 
+📘 Project Report (PDF): [Project Overview PDF](https://github.com/SJ-UNI/Salesforce/blob/main/To_Supply_Leftover_Food_to_Poor_Final_Report.pdf)
 Includes project architecture, screenshots, workflows, and milestone details.
 
-👨‍💻 Developed By
+**👨‍💻 Developed By**
 
-Hariharan S J
+Hariharan S J 
 📚 Program: Naan Mudhalvan – Salesforce Developer (SB8067)
 📦 Project Title: To Supply Leftover Food to Poor
